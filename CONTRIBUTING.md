@@ -1,4 +1,4 @@
-# Contributing
+# Contributing teste
 
 1. Fork the repository.
 2. Run `bin/setup`, which will install dependencies and create the dummy
